@@ -1,0 +1,45 @@
+{
+    "questions": [
+        {
+            "question": "Which of the following is NOT true about mining Shiba Coin?",
+            "answers": [
+                "Mining requires significant computational power",
+                "Specialized hardware such as ASIC miners are required for mining Shiba Coin",
+                "Mining does not consume significant amounts of energy",
+                "Mining can be done solo or in a mining pool"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "Which of the following is NOT a requirement for mining Shiba Coin?",
+            "answers": [
+                "Specialized hardware",
+                "A wallet to store rewards",
+                "A smartphone with internet access",
+                "Specific mining software"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "What is the primary advantage of mining Shiba Coin?",
+            "answers": [
+                "The ability to secure the network and ensure the integrity of the blockchain.",
+                "The potential to earn significant rewards for adding new blocks to the blockchain.",
+                "The ease of use of mining software.",
+                "The low cost of specialized hardware."
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What is the difference between solo mining and mining pools in Shiba Coin mining?",
+            "answers": [
+                "Solo mining is more profitable than mining pools.",
+                "Mining pools require specialized hardware, while solo mining does not.",
+                "Solo mining involves working alone to solve mathematical problems, while mining pools involve miners working together to solve these problems.",
+                "Mining pools are less risky than solo mining."
+            ],
+            "correctIndex": 0
+        }
+        
+    ]
+}

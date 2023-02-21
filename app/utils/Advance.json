@@ -1,0 +1,55 @@
+{
+    "questions": [
+        {
+            "question": "What is the unique tokenomics structure of Shiba Coin?",
+            "answers": [
+                "Unlimited supply with a 5% fee on all transactions",
+                "Limited supply of one quadrillion tokens with a 5% fee on all transactions, with 2.5% burned and 2.5% distributed to existing holders",
+                "Limited supply of one billion tokens with a 10% fee on all transactions, with 5% burned and 5% distributed to existing holders",
+                "Unlimited supply with a 10% fee on all transactions, with 5% burned and 5% distributed to existing holders"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "What is the main difference between Shiba Coin and other cryptocurrencies?",
+            "answers": [
+                "Shiba Coin is built on the Ethereum blockchain",
+                "Shiba Coin has a strong community of supporters",
+                "Shiba Coin has a unique tokenomics structure",
+                "All of the above"
+            ],
+            "correctIndex": 4
+        },
+        {
+            "question": "What are ERC-20 tokens?",
+            "answers": [
+                "A type of cryptocurrency that represents unique assets or digital collectibles",
+                "A type of cryptocurrency that is built on the Ethereum blockchain and has the same smart contract functionality as other ERC-20 tokens",
+                "A mechanism used by some cryptocurrencies to reduce the total supply of tokens in circulation",
+                "A type of decentralized exchange built on the Ethereum blockchain"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "What are NFTs?",
+            "answers": [
+                "A type of cryptocurrency that represents unique assets or digital collectibles",
+                "A type of cryptocurrency that is built on the Ethereum blockchain and has the same smart contract functionality as other ERC-20 tokens",
+                "A mechanism used by some cryptocurrencies to reduce the total supply of tokens in circulation",
+                "A type of decentralized exchange built on the Ethereum blockchain"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What is the potential impact of supply changes on the value of a cryptocurrency?",
+            "answers": [
+                "It can increase the value of the token by creating a scarcity effect",
+                "It can reduce the value of the token by diluting its value",
+                "Both A and B",
+                "None of the above"
+            ],
+            "correctIndex": 0
+        }
+        
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "questions": [
+        {
+            "question": "What is Shiba Coin?",
+            "answers": [
+                "A centralized cryptocurrency",
+                "A decentralized cryptocurrency",
+                "A new type of physical coin",
+                "A social media platform"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What is the limited supply of Shiba Coin?",
+            "answers": [
+                "One million tokens",
+                "One billion tokens",
+                "One trillion tokens",
+                "One quadrillion tokens"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "question": "Why is Shiba Coin known as the `Dogecoin killer`?",
+            "answers": [
+                "Because it is based on the Dogecoin blockchain",
+                "Because it was created to replace Dogecoin",
+                "Because of its strong resemblance to Dogecoin in terms of branding and design",
+                "Because it has a larger community than Dogecoin"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "When was Shiba Coin created?",
+            "answers": [
+                "ugust 2018",
+                "August 2019",
+                "August 2020",
+                "August 2021"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "question": "What is ShibaSwap?",
+            "answers": [
+                "A decentralized exchange for trading Shiba Coin and other tokens",
+                "A social media platform for Shiba Coin users",
+                "A new type of Shiba Coin token",
+                "A physical store that accepts Shiba Coin payments"
+            ],
+            "correctIndex": 0
+        }
+        
+    ]
+}

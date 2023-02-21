@@ -1,0 +1,55 @@
+{
+    "questions": [
+        {
+            "question": "What is blockchain technology?",
+            "answers": [
+                "A centralized ledger for recording transactions",
+                "A distributed ledger for recording transactions",
+                "A type of digital currency",
+                "A social media platform"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What is decentralization?",
+            "answers": [
+                "A system where decisions are made by a single party",
+                "A system where decisions are made through a consensus mechanism",
+                "A system where transactions are recorded on a centralized ledger",
+                "A system where transactions are not recorded at all"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What is cryptocurrency?",
+            "answers": [
+                "A physical currency made of metal or paper",
+                "A digital or virtual currency that uses cryptography to secure and verify transactions",
+                "A type of stock in a company",
+                "A type of bond issued by a government"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What is the main difference between centralized and decentralized networks?",
+            "answers": [
+                "Centralized networks are more transparent than decentralized networks",
+                " Decentralized networks are more resistant to censorship than centralized networks",
+                "Centralized networks are controlled by a network of nodes",
+                "Decentralized networks are controlled by a single party"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "question": "What are smart contracts?",
+            "answers": [
+                "Contracts that are automatically executed based on predefined conditions",
+                "Contracts that are only executed if both parties agree to the terms",
+                "Contracts that are written on paper and signed by both parties",
+                "Contracts that are executed by a central authority"
+            ],
+            "correctIndex": 0
+        }
+        
+    ]
+}
